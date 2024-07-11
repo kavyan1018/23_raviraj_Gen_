@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+--> Document type html 
+
+<html lang="en">
+--> int html me use english lang.
+
+<head>
+    <meta charset="UTF-8">
+    encoding
+    what is the full form of utf ? ==> unicode transformation format
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    --> in title we Enter our web name 
+
+</head>
+
+<body>
+    what we want to show in my web site that part we will type in body
+</body>
+</html>
+
+
+Heading tgs 
+
+how many types of Heading tags ?
+
+--> There is total 6 types of Heading tags 
+
+which ? 
+
+--> h1  ==> max
+--> h2
+--> h3
+--> h4
+--> h5
+--> h6 ==> min
+
+What is difference between Heading tags ? 
+--> there is size difference between Heading tags 
+
+center tag :- 
+
+what we want to print in center that all parts we write in center tag 
